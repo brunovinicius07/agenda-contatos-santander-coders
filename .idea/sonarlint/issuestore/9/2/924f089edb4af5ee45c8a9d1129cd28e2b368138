@@ -1,0 +1,62 @@
+
+7
+java:S1220""Move this file to a named package.8„ŞŸçÔ1
+G	java:S106"+Replace this use of System.out by a logger.(Îñë8¥áŸçÔ1
+G	java:S106"+Replace this use of System.out by a logger.(Îñë8¥áŸçÔ1
+G	java:S106+"+Replace this use of System.out by a logger.(ÏĞèƒ8¯áŸçÔ1
+L	java:S106."+Replace this use of System.out by a logger.(ãØé¼øÿÿÿÿ8¯áŸçÔ1
+j	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÁ¤÷8¯áŸçÔ1
+G	java:S1069"+Replace this use of System.out by a logger.(†¡ƒŠ8¯áŸçÔ1
+G	java:S106:"+Replace this use of System.out by a logger.(éàÔ¥8¯áŸçÔ1
+L	java:S106<"+Replace this use of System.out by a logger.(ÕÇ¡£øÿÿÿÿ8¯áŸçÔ1
+L	java:S106>"+Replace this use of System.out by a logger.(Ñ¹òıûÿÿÿÿ8¯áŸçÔ1
+L	java:S106@"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8±áŸçÔ1
+o	java:S100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Ë’…ûÿÿÿÿ8±áŸçÔ1
+L	java:S106G"+Replace this use of System.out by a logger.(¢æûÿÿÿÿ8±áŸçÔ1
+L	java:S106I"+Replace this use of System.out by a logger.(’³¯–ùÿÿÿÿ8±áŸçÔ1
+L	java:S106U"+Replace this use of System.out by a logger.(Õ’ô²şÿÿÿÿ8±áŸçÔ1
+G	java:S106]"+Replace this use of System.out by a logger.(´Œ…À8±áŸçÔ1
+L	java:S106_"+Replace this use of System.out by a logger.(òÊ˜ùÿÿÿÿ8±áŸçÔ1
+G	java:S106d"+Replace this use of System.out by a logger.(‹—Ùù8±áŸçÔ1
+G	java:S106h"+Replace this use of System.out by a logger.(Îñë8±áŸçÔ1
+L	java:S106u"+Replace this use of System.out by a logger.(¢æûÿÿÿÿ8±áŸçÔ1
+L	java:S106z"+Replace this use of System.out by a logger.(’³¯–ùÿÿÿÿ8±áŸçÔ1
+M	java:S106‚"+Replace this use of System.out by a logger.(òç„‚øÿÿÿÿ8±áŸçÔ1
+M	java:S106‰"+Replace this use of System.out by a logger.(Òºâãùÿÿÿÿ8±áŸçÔ1
+M	java:S106‘"+Replace this use of System.out by a logger.(Ñ¹òıûÿÿÿÿ8±áŸçÔ1
+M	java:S106“"+Replace this use of System.out by a logger.(„‚Úîÿÿÿÿÿ8±áŸçÔ1
+H	java:S106˜"+Replace this use of System.out by a logger.(´ºº 8±áŸçÔ1
+M	java:S106›"+Replace this use of System.out by a logger.(ÉÂ—åüÿÿÿÿ8±áŸçÔ1
+M	java:S106£"+Replace this use of System.out by a logger.(•¨Ñ¾ÿÿÿÿÿ8±áŸçÔ1
+G	java:S106¤"+Replace this use of System.out by a logger.(¶³E8±áŸçÔ1
+M	java:S106¥"+Replace this use of System.out by a logger.(ÅòÆÀùÿÿÿÿ8±áŸçÔ1
+M	java:S106¦"+Replace this use of System.out by a logger.(Äô‚éúÿÿÿÿ8±áŸçÔ1
+M	java:S106§"+Replace this use of System.out by a logger.(Œ‰›«ÿÿÿÿÿ8±áŸçÔ1
+M	java:S106¶"+Replace this use of System.out by a logger.(šÅ‚„ıÿÿÿÿ8±áŸçÔ1
+K
+java:S1172¼"-Remove this unused method parameter "agenda".(úÉÚ´8±áŸçÔ1
+G	java:S106½"+Replace this use of System.out by a logger.(®å˜98±áŸçÔ1
+M	java:S106¿"+Replace this use of System.out by a logger.(ª±ÔŸûÿÿÿÿ8±áŸçÔ1
+M	java:S106É"+Replace this use of System.out by a logger.(êÏàøÿÿÿÿ8¸áŸçÔ1
+p	java:S100Î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï‚ûšıÿÿÿÿ8¸áŸçÔ1
+H	java:S106Ò"+Replace this use of System.out by a logger.(Ï‰²Š8¸áŸçÔ1
+H	java:S106Ú"+Replace this use of System.out by a logger.(ë«Ç8¸áŸçÔ1
+M	java:S106Ş"+Replace this use of System.out by a logger.(øì…õùÿÿÿÿ8¸áŸçÔ1
+M	java:S106â"+Replace this use of System.out by a logger.(èĞ¹àüÿÿÿÿ8¹áŸçÔ1
+M	java:S106ä"+Replace this use of System.out by a logger.(‡ÑóÛüÿÿÿÿ8¹áŸçÔ1
+H	java:S106ê"+Replace this use of System.out by a logger.(«–Ûê8¹áŸçÔ1
+M	java:S106ì"+Replace this use of System.out by a logger.(Íğê²şÿÿÿÿ8¹áŸçÔ1
+H	java:S106ñ"+Replace this use of System.out by a logger.(¨ìîÆ8¹áŸçÔ1
+H	java:S106ô"+Replace this use of System.out by a logger.(Òó×ô8¹áŸçÔ1
+H	java:S106ü"+Replace this use of System.out by a logger.(æ®´Í8»áŸçÔ1
+M	java:S106ƒ"+Replace this use of System.out by a logger.(²ôÇÿÿÿÿÿ8»áŸçÔ1
+M	java:S106‡"+Replace this use of System.out by a logger.(øì…õùÿÿÿÿ8»áŸçÔ1
+G	java:S106Œ"+Replace this use of System.out by a logger.(“‹‰8»áŸçÔ1
+p
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ğ×›8»áŸçÔ1
+M	java:S106“"+Replace this use of System.out by a logger.(ó»Âøÿÿÿÿ8»áŸçÔ1
+H	java:S106•"+Replace this use of System.out by a logger.(¾åõƒ8»áŸçÔ1
+M	java:S106Ÿ"+Replace this use of System.out by a logger.(€»¹¹ùÿÿÿÿ8»áŸçÔ1
+M	java:S106¥"+Replace this use of System.out by a logger.(€»¹¹ùÿÿÿÿ8·Í¬çÔ1
+H	java:S106ª"+Replace this use of System.out by a logger.(Øø¹8Ò¨¸çÔ1
+H	java:S106¬"+Replace this use of System.out by a logger.(ÁÕêù8Ì“¹çÔ1

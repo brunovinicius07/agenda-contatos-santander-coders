@@ -1,0 +1,13 @@
+
+7
+java:S1220""Move this file to a named package.8√ºŸµ‘1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(Ö¥„“8√ºŸµ‘1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(µÖêû8√ºŸµ‘1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(œﬁıö8√ºŸµ‘1
+N
+java:S1068"1Remove this unused "PATH_TELEFONE" private field.(µÖêû8√ºŸµ‘1
+M
+java:S1068"0Remove this unused "PATH_CONTATO" private field.(œﬁıö8√ºŸµ‘1
